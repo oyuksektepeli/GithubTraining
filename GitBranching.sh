@@ -7,3 +7,5 @@ git checkout -b branch-name
 #push branch to github
 git push -u origin branch-name
 
+#get all branches
+git branch -r
