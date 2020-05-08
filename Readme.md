@@ -1,8 +1,9 @@
 # Readme
-I created new branch with name branc-test1
+This is repository for Github Training and Contains Sample Git Commands. 
 
 ## Modules 
 Modules will be added soon.
 
 ## Github Logo
 Github logo placeholder.
+
