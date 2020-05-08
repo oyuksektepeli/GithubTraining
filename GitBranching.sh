@@ -15,9 +15,16 @@ git branch -a
 
 #delete local branch
 git branch -d branch-name
+git branch --delete branch-name
 
 #delete branch with force, merge status ignored
 git branch -d branch-name --force
 
 #delete remote branch
 git push origin --delete branch-name
+
+#rename branch
+git branch -m old-branch-name new-branch-name 
+# Alternative
+git branch --move old-branch-name new-branch-name
+
