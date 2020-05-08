@@ -14,7 +14,7 @@ git branch -r
 git branch -a
 
 #delete local branch
-git brach -d branch-name
+git branch -d branch-name
 
 #delete branch with force, merge status ignored
 git branch -d branch-name --force
