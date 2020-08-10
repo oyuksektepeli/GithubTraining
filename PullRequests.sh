@@ -3,6 +3,7 @@ git checkout -b new-branch-name
 
 #create branch on remote (github)
 git push --set-upstream origin new-branch-name
+git push -u origin branch-name
 
 #write some code and add some files to repository
 git add file-name
